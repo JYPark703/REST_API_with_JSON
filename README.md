@@ -1,6 +1,7 @@
 # REST_API_with_JSON
 
-Name: Jin Young Park 
+Name: Jin Young Park
+
 WebServer: http://dbjyhw02server.us-west-2.elasticbeanstalk.com
 
 I have implemented communication between webserver and client using REST API with JSON. I implemted REST API code using c# and Clouds Server used Amazon. The command-line tool used Talend API Tester.
